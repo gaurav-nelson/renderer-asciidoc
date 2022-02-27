@@ -1,11 +1,12 @@
 {
   "name": "renderer-asciidoc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Astro plugin for rendering AsciiDoc content",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "type": "module",
   "keywords": [
     "astro",
     "asciidoc",
